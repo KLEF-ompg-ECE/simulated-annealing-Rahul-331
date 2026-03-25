@@ -1,8 +1,8 @@
 # Assignment 1 — Simulated Annealing: Exam Timetable Scheduling
 ## Observation Report
 
-**Student Name  :** ___________________________  
-**Student ID    :** ___________________________  
+**Student Name  :** Dandu Rahul  
+**Student ID    :** 2310040040  
 **Date Submitted:** March 25, 2026  
 
 ---
